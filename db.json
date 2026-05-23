@@ -44,7 +44,6 @@
   "state":"Odisha",
   "country":"India",
   "job_sector":"Govt",
- 
 },
   {
   "id":"u0005",
@@ -57,6 +56,5 @@
   "country":"India",
   "job_sector":"Private",
    "company_name":"Wipro ltd"
- 
-}
+ }
 ]
