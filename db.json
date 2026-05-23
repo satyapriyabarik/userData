@@ -1,0 +1,62 @@
+[
+  {
+  "id":"u0001",
+  "name":"Ranjan Minz",
+  "age":34,
+  "department":"IT",
+  "salary":120000,
+  "city":"Bhubaneswar",
+  "state":"Odisha",
+  "country":"India",
+  "job_sector":"Private",
+  "company_name":"Infosys"
+},
+{
+  "id":"u0002",
+  "name":"Birsa Munda",
+  "age":34,
+  "department":"PWD",
+  "salary":760000,
+  "city":"Bhubaneswar",
+  "state":"Odisha",
+  "country":"India",
+  "job_sector":"Govt",
+ },
+  {
+  "id":"u0003",
+  "name":"Sabina Hanhaga",
+  "age":45,
+  "department":"HR",
+  "salary":150000,
+  "city":"Bhubaneswar",
+  "state":"Odisha",
+  "country":"India",
+  "job_sector":"Private",
+  "company_name":"Tata consultancy Services"
+},
+  {
+  "id":"u0004",
+  "name":"Nakul Martha",
+  "age":56,
+  "department":"Revenue",
+  "salary":320000,
+  "city":"Bhubaneswar",
+  "state":"Odisha",
+  "country":"India",
+  "job_sector":"Govt",
+ 
+},
+  {
+  "id":"u0005",
+  "name":"Santosh Barua",
+  "age":56,
+  "department":"Security",
+  "salary":220000,
+  "city":"Bhubaneswar",
+  "state":"Odisha",
+  "country":"India",
+  "job_sector":"Private",
+   "company_name":"Wipro ltd"
+ 
+}
+]
